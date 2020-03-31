@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+	<channel>
+		<title>Mike's programming and architecture blog</title>
+		<link>https://mikeska.tech/</link>
+		<description>Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more</description>
+		<copyright>2020</copyright>
+		<pubDate>Tue, 31 Mar 2020 12:44:51 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Mar 2020 12:44:51 GMT</lastBuildDate>
+		<item>
+			<title>Líbeznice vyhlašují nezávislost</title>
+			<link>https://mikeska.tech/posts/nezavislost-republiky-libeznice</link>
+			<description>&lt;p&gt;Situace je zmatená, nikoliv však vypjatá. Pan starosta svolil poskytout našemu občasníku exkluzivní rozhovor a vnést tak na povrch první informace o prítomnosti a blízké budoucnosti nově vzniklé Republiky Líbeznice.&lt;/p&gt;</description>
+			<enclosure url="https://mikeska.tech/flag.png" length="0" type="image" />
+			<guid>https://mikeska.tech/posts/nezavislost-republiky-libeznice</guid>
+			<pubDate>Mon, 30 Mar 2020 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Situace je zmatená, nikoliv však vypjatá. Pan starosta svolil poskytout našemu občasníku exkluzivní rozhovor a vnést tak na povrch první informace o prítomnosti a blízké budoucnosti nově vzniklé Republiky Líbeznice.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dobrý den pane starosto, na úvod bych se rád zeptal, proč jste se rozhodl poskytnout rozhovor právě nám a ne nejštenějšímu měsíčníku v zemi, Líbeznickému zpravodaji ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Líbeznický zpravodaj se zabývá pouze seriózní novinařinou, pro případ jako je tento je váš občasník určitě vhodnější.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Co nám tedy můžete říct k aktuální situaci?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Dnes v časných ranních hodinách, bylo do kanceláře starosty, doručeno rozhodnutí ohledně naší žádosti, vyhlásit na území Líbeznic suverenní stát. Pan Prezident Miloš  Zeman mne v následném osobním dopise pogratuloval a věří, že budou jako hlava státu Líbeznice ve světě výborně reprezentovat. Obdobný dopis zaslal i přeceda vlády Andrej Bureš.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jak se to vlastně celé stalo, uvažovaly Líbeznice dlouhodobě o odtřžení od zbytku republiky? Na takto důležité rozhodnutí bych čekal miminálně vyhlášení referenda.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Jsme z toho sami docela překvapení a okolnosti teprve zjišťujeme, ale zatím to vypadá tak, že byl kanceláři prezidenta ČR omylem odeslán archivní dokument z roku 1945. Ten který měl Líbeznický estabilishment té doby nachystaný jako návrh na poválečné uspořádání evropy. Tento dokument byl součástí archivu a nedopatřením se dostal do korespondence k odeslání.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jak se to mohlo stát? Taková nezodpovědnost.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Okolnosti zatím prověřujeme, ale zatím to vypadá, že se jedná o osobní selhání paní Smetáčkové, naši manažerky podlahových povrchů z noční směny. V sobotu navštívila na Moravě výstavu vín a slivovice. Bohužel se ji nepodařilo do pondělí vystřízlivět a tak během uklízení omylem pomíchala nějaké dokumenty.
+Na té výstavě se ji zdálo, že archivní vína a slivovice jsou ty nejlepší. Zřejmě si pak ještě v tom opojení myslela, že to platí i o dokumetech a tak ty archivní přidala k naší běžné poště k odeslání.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jak se to ale mohlo stát, copak si v kanceláři prezidenta nevšimli, že se jedná o historický dokument ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Tak samozřejmě všichni víme kdo sedí na hradě, možné je tedy všechno.&lt;/p&gt;
+&lt;p&gt;Bohužel to vypadá tak, že pánové Minář a Nejedlý byli zrovna v Číně a tak na něj nemohli dávat pozor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A co pan Ovčáček? Ten se většinou stará o pana prezidenta, když potřebuje přebalit a tak podobně.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pan prezident využil odchodu paná mluvčího a uzamčel ho na toaletě, když mu bránil v přístupu k minibaru. Mezitím vypil pár litrů Bechera, opilý pak podepsal onen dokument ohledně samostatnoti Líbeznic a vyhlásil válku Vatikánu. Naštěstí víc toho natropit nestihnul, pan mluvčí začal škrábat na dveře a kňučet, tak se pan prezident smiloval a pustil ho zase dovnitř.&lt;/p&gt;
+&lt;p&gt;Tedy je to celé jen nedoruzumění, ale nevratné, dnes ráno jsem dostal oficiální notu od výboru OSN, že naši suverenitu jednohlasně uznaly všechny státy. Tedy kromě Vatikánu, ale to už jsme pořešili.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Dospěli jste s Vatikánem k nějaké dohodě?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vlastně jsme nemuseli dělat vůbec nic. Když jejich zpravodajská služba zjistila, že disponujeme elitní jednotkou ozbrojených městských strážníků, nechtěli konflikt dále eskalovat a naši suverenitu bez otálení obratem uznali.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Co bude teď dál, jaké jsou vaše další kroky ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ve středu anektujeme naše kolonie Měšice a Bašť, tím pádem budme mít územní celistvost vyřešenou a požádáme o členství v EU.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Premýšlel jste i o anektování Hovorčovic ?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Proboha proč, byl jste někdy v Hovorčovicích ?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Jestli tomu tedy správně rozumím, lidé už by vás neměli oslovovat pane starosto, ale pane prezidente?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Vy novináři že všeho vždycky uděláte hroznou bublinu. Libeznice byla vždycky hodně neformálním místem a takové oslovení nejsou potřeba, stačí když mě budou oslovovat Prezidente.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Necítíte ale tak trochu, že k takové funkci vám vaši voliči nedali mandát?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Samozřejmě tady nehodláme zavádět žádný autoritářský režim, naši zemi hodlám dovést ke svobodným regulerním volbám, už je brzo vyhlásíme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Kdy přesně budou, a budou mít voliči dostatek času se s jednotlivými kandidáty seznámit?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ano, první svobodné volby budou cca v listopadu, 2041, tedy veřejnost bude mít určitě dostatek času se se všemi kandidáty seznámit.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pane starosto, děkujeme za rozhovor a budeme se těšít na další informace.&lt;/strong&gt;&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Líbeznice budují celonárodní pivovod</title>
+			<link>https://mikeska.tech/posts/libeznice-buduji-pivovod</link>
+			<description>&lt;p&gt;V květnu by konečně měla započíst dlouho očekávaná stavba městského pivovodu, tedy potrubní komunikace plošně distribující zlatavý mok po celé naší metropoli.&lt;/p&gt;</description>
+			<enclosure url="https://mikeska.tech/pipeline.jpg" length="0" type="image" />
+			<guid>https://mikeska.tech/posts/libeznice-buduji-pivovod</guid>
+			<pubDate>Sun, 29 Mar 2020 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;V květnu by konečně měla započíst dlouho očekávaná stavba městského pivovodu, tedy potrubní komunikace plošně distribující zlatavý mok po celé naší metropoli.&lt;/p&gt;
+&lt;p&gt;Nápad se v hlavách našich čelních představitelů zrodil už před mnoha lety, ale tepreve teď začne konečně samotná realizace. Líbeznice se tak zařadí k dalším metropolím, jako jsou třeba Belgické Bruggy, či podobným projektům z Německa.&lt;/p&gt;
+&lt;p&gt;V krátkém rozhovoru nám Prezident Kupka sdělil proč je realizace této klíčové páteřní komunikace trochu opožděna.&lt;/p&gt;
+&lt;p&gt;“Bylo potřeba získat potřebná povolení a samozřejmě by tento projekt nemohl vzniknout bez subvence ze strany EU, konkrétně z fondu rozvoje venkova”.&lt;/p&gt;
+&lt;p&gt;Pan Prezident rovněž dementoval šířící se nepravdy, že už by dopředu bez veřejné soutěže uzavřeli desetiletý kontrakt s pivovarem Argus.&lt;/p&gt;
+&lt;p&gt;“Ten kontrakt jsme ve skutečnosti uzavřeli, ale Argus budeme odebírat pouze jako kapalinu určenou k čitění trubek. Dodavatele na pivo pro samotnou konzumaci budeme soutěžit jednou ročně. Dlouhodobou spolupráci s firmou Argus jsme zvolili hlavně proto, že podali levnější nabídku než Vodárny a Kanalizace. Navíc Argus jako voda vypadá a podobně i chutná. Pro samotou dodávku piva budeme soutěžit jedině pivovary, které to s výrobou piva myslí vážně”&lt;/p&gt;
+&lt;p&gt;&lt;img src="../assets/images/article/pivo/beer-tank.jpg" class="img-fluid" alt="picture not found" title="Strip your method to override" /&gt;
+&lt;em&gt;Cistérny už na Líbeznických dálnicích neuvidíme, vytlačí je nový pivovod&lt;/em&gt;&lt;/p&gt;
+</content:encoded>
+		</item>
+		<item>
+			<title>Líbeznice mění Prahu za Brno</title>
+			<link>https://mikeska.tech/posts/brno-misto-prahy</link>
+			<description>&lt;p&gt;Poté co Praha rozvázala kvůli politické rozepři partnerství s Pekingem, začala pomalu pokukovat po patnerské metropoli, která by toto volené místo zacelila.&lt;/p&gt;</description>
+			<enclosure url="https://mikeska.tech/brno.jpg" length="0" type="image" />
+			<guid>https://mikeska.tech/posts/brno-misto-prahy</guid>
+			<pubDate>Sat, 28 Mar 2020 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;Poté co Praha rozvázala kvůli politické rozepři partnerství s Pekingem, začala pomalu pokukovat po patnerské metropoli, která by toto volené místo zacelila.&lt;/p&gt;
+&lt;p&gt;Pražský primátor Hřib se nikdy netajil, sympatií k Líbezniceké metropoli a vždy partnerství uváděl jako jednu ze svých hlavních priorit. Shoda ostatně panuje napříč celou koalicí Pražského Magistrátu.&lt;/p&gt;
+&lt;p&gt;Když už se ale zdálo, že je dohoda v podsatě upečená, nastal nečekaný zvrat. Zde je oficiální sdělení tiskového mluvčího Líbeznického parlamentu magistra Žvanílka.&lt;/p&gt;
+&lt;p&gt;“Bohužel se nám podařilo zjistit, že Praha není město, ale je to kraj. Největším městem v České Republice je tedy Brno. Pro metropoli takového světového významu, jakou Líbeznice bezesporu jsou, tedy dává smysl, aby jsme uzavřeli partnerství právě s Brnem, největším městem v České Republice. V nejbližsí době začneme jednat o přímém leteckém spojení mezi Brněnským letištěm v Tuřanech a letištěm Martina Kupky, které bude dokončeno příští rok, na místě kde kdysi stála obec Hovorčovice.”&lt;/p&gt;
+</content:encoded>
+		</item>
+	</channel>
+</rss>

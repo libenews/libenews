@@ -1,0 +1,3 @@
+Sitemap: https://libenews/sitemap.xml
+User-agent:*
+Disallow:
