@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="https://mikeska.tech/" />
-	<id>https://mikeska.tech/</id>
-	<title>Mike's programming and architecture blog</title>
+	<link rel="self" href="https://libenews.cz/" />
+	<id>https://libenews.cz/</id>
+	<title>Líbeznický fake news portal</title>
 	<rights>2020</rights>
-	<updated>2020-03-31T12:44:51Z</updated>
-	<subtitle>Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more</subtitle>
+	<updated>2020-03-31T14:45:25Z</updated>
+	<subtitle>Zaručeně neověřené informace</subtitle>
 	<entry>
-		<link href="https://mikeska.tech/posts/nezavislost-republiky-libeznice" />
-		<link rel="enclosure" type="image" href="https://mikeska.tech/flag.png" />
-		<id>https://mikeska.tech/posts/nezavislost-republiky-libeznice</id>
+		<link href="https://libenews.cz/posts/nezavislost-republiky-libeznice" />
+		<link rel="enclosure" type="image" href="https://libenews.cz/flag.png" />
+		<id>https://libenews.cz/posts/nezavislost-republiky-libeznice</id>
 		<title>Líbeznice vyhlašují nezávislost</title>
 		<updated>2020-03-30T00:00:00Z</updated>
 		<content>&lt;p&gt;Situace je zmatená, nikoliv však vypjatá. Pan starosta svolil poskytout našemu občasníku exkluzivní rozhovor a vnést tak na povrch první informace o prítomnosti a blízké budoucnosti nově vzniklé Republiky Líbeznice.&lt;/p&gt;
@@ -45,9 +45,9 @@ Na té výstavě se ji zdálo, že archivní vína a slivovice jsou ty nejlepš�
 		<summary>&lt;p&gt;Situace je zmatená, nikoliv však vypjatá. Pan starosta svolil poskytout našemu občasníku exkluzivní rozhovor a vnést tak na povrch první informace o prítomnosti a blízké budoucnosti nově vzniklé Republiky Líbeznice.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://mikeska.tech/posts/libeznice-buduji-pivovod" />
-		<link rel="enclosure" type="image" href="https://mikeska.tech/pipeline.jpg" />
-		<id>https://mikeska.tech/posts/libeznice-buduji-pivovod</id>
+		<link href="https://libenews.cz/posts/libeznice-buduji-pivovod" />
+		<link rel="enclosure" type="image" href="https://libenews.cz/pipeline.jpg" />
+		<id>https://libenews.cz/posts/libeznice-buduji-pivovod</id>
 		<title>Líbeznice budují celonárodní pivovod</title>
 		<updated>2020-03-29T00:00:00Z</updated>
 		<content>&lt;p&gt;V květnu by konečně měla započíst dlouho očekávaná stavba městského pivovodu, tedy potrubní komunikace plošně distribující zlatavý mok po celé naší metropoli.&lt;/p&gt;
@@ -62,9 +62,9 @@ Na té výstavě se ji zdálo, že archivní vína a slivovice jsou ty nejlepš�
 		<summary>&lt;p&gt;V květnu by konečně měla započíst dlouho očekávaná stavba městského pivovodu, tedy potrubní komunikace plošně distribující zlatavý mok po celé naší metropoli.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://mikeska.tech/posts/brno-misto-prahy" />
-		<link rel="enclosure" type="image" href="https://mikeska.tech/brno.jpg" />
-		<id>https://mikeska.tech/posts/brno-misto-prahy</id>
+		<link href="https://libenews.cz/posts/brno-misto-prahy" />
+		<link rel="enclosure" type="image" href="https://libenews.cz/brno.jpg" />
+		<id>https://libenews.cz/posts/brno-misto-prahy</id>
 		<title>Líbeznice mění Prahu za Brno</title>
 		<updated>2020-03-28T00:00:00Z</updated>
 		<content>&lt;p&gt;Poté co Praha rozvázala kvůli politické rozepři partnerství s Pekingem, začala pomalu pokukovat po patnerské metropoli, která by toto volené místo zacelila.&lt;/p&gt;

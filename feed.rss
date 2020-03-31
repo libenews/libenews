@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
-		<title>Mike's programming and architecture blog</title>
-		<link>https://mikeska.tech/</link>
-		<description>Programming blog about Software Architecture, Angular.io, .NET, ASP.NET, Typescript, programming Comic strips and more</description>
+		<title>Líbeznický fake news portal</title>
+		<link>https://libenews.cz/</link>
+		<description>Zaručeně neověřené informace</description>
 		<copyright>2020</copyright>
-		<pubDate>Tue, 31 Mar 2020 12:44:51 GMT</pubDate>
-		<lastBuildDate>Tue, 31 Mar 2020 12:44:51 GMT</lastBuildDate>
+		<pubDate>Tue, 31 Mar 2020 14:45:25 GMT</pubDate>
+		<lastBuildDate>Tue, 31 Mar 2020 14:45:25 GMT</lastBuildDate>
 		<item>
 			<title>Líbeznice vyhlašují nezávislost</title>
-			<link>https://mikeska.tech/posts/nezavislost-republiky-libeznice</link>
+			<link>https://libenews.cz/posts/nezavislost-republiky-libeznice</link>
 			<description>&lt;p&gt;Situace je zmatená, nikoliv však vypjatá. Pan starosta svolil poskytout našemu občasníku exkluzivní rozhovor a vnést tak na povrch první informace o prítomnosti a blízké budoucnosti nově vzniklé Republiky Líbeznice.&lt;/p&gt;</description>
-			<enclosure url="https://mikeska.tech/flag.png" length="0" type="image" />
-			<guid>https://mikeska.tech/posts/nezavislost-republiky-libeznice</guid>
+			<enclosure url="https://libenews.cz/flag.png" length="0" type="image" />
+			<guid>https://libenews.cz/posts/nezavislost-republiky-libeznice</guid>
 			<pubDate>Mon, 30 Mar 2020 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;Situace je zmatená, nikoliv však vypjatá. Pan starosta svolil poskytout našemu občasníku exkluzivní rozhovor a vnést tak na povrch první informace o prítomnosti a blízké budoucnosti nově vzniklé Republiky Líbeznice.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dobrý den pane starosto, na úvod bych se rád zeptal, proč jste se rozhodl poskytnout rozhovor právě nám a ne nejštenějšímu měsíčníku v zemi, Líbeznickému zpravodaji ?&lt;/strong&gt;&lt;/p&gt;
@@ -47,10 +47,10 @@ Na té výstavě se ji zdálo, že archivní vína a slivovice jsou ty nejlepš�
 		</item>
 		<item>
 			<title>Líbeznice budují celonárodní pivovod</title>
-			<link>https://mikeska.tech/posts/libeznice-buduji-pivovod</link>
+			<link>https://libenews.cz/posts/libeznice-buduji-pivovod</link>
 			<description>&lt;p&gt;V květnu by konečně měla započíst dlouho očekávaná stavba městského pivovodu, tedy potrubní komunikace plošně distribující zlatavý mok po celé naší metropoli.&lt;/p&gt;</description>
-			<enclosure url="https://mikeska.tech/pipeline.jpg" length="0" type="image" />
-			<guid>https://mikeska.tech/posts/libeznice-buduji-pivovod</guid>
+			<enclosure url="https://libenews.cz/pipeline.jpg" length="0" type="image" />
+			<guid>https://libenews.cz/posts/libeznice-buduji-pivovod</guid>
 			<pubDate>Sun, 29 Mar 2020 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;V květnu by konečně měla započíst dlouho očekávaná stavba městského pivovodu, tedy potrubní komunikace plošně distribující zlatavý mok po celé naší metropoli.&lt;/p&gt;
 &lt;p&gt;Nápad se v hlavách našich čelních představitelů zrodil už před mnoha lety, ale tepreve teď začne konečně samotná realizace. Líbeznice se tak zařadí k dalším metropolím, jako jsou třeba Belgické Bruggy, či podobným projektům z Německa.&lt;/p&gt;
@@ -64,10 +64,10 @@ Na té výstavě se ji zdálo, že archivní vína a slivovice jsou ty nejlepš�
 		</item>
 		<item>
 			<title>Líbeznice mění Prahu za Brno</title>
-			<link>https://mikeska.tech/posts/brno-misto-prahy</link>
+			<link>https://libenews.cz/posts/brno-misto-prahy</link>
 			<description>&lt;p&gt;Poté co Praha rozvázala kvůli politické rozepři partnerství s Pekingem, začala pomalu pokukovat po patnerské metropoli, která by toto volené místo zacelila.&lt;/p&gt;</description>
-			<enclosure url="https://mikeska.tech/brno.jpg" length="0" type="image" />
-			<guid>https://mikeska.tech/posts/brno-misto-prahy</guid>
+			<enclosure url="https://libenews.cz/brno.jpg" length="0" type="image" />
+			<guid>https://libenews.cz/posts/brno-misto-prahy</guid>
 			<pubDate>Sat, 28 Mar 2020 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;Poté co Praha rozvázala kvůli politické rozepři partnerství s Pekingem, začala pomalu pokukovat po patnerské metropoli, která by toto volené místo zacelila.&lt;/p&gt;
 &lt;p&gt;Pražský primátor Hřib se nikdy netajil, sympatií k Líbezniceké metropoli a vždy partnerství uváděl jako jednu ze svých hlavních priorit. Shoda ostatně panuje napříč celou koalicí Pražského Magistrátu.&lt;/p&gt;
