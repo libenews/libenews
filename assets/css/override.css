@@ -31,6 +31,7 @@ pre {
     padding-left: 10px;
     padding-right: 10px;
     border-bottom: 1px solid black;
+    margin-bottom: 0;
 }
 
 .header-tbl {
@@ -39,8 +40,16 @@ pre {
     font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-.index-post-image {    
-    
+.back-link {
+    display: block;
+    text-decoration: underline;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    color: darkblue;
+}
+
+.index-post-image {
 }
 
 .fake-info-post-cont {
