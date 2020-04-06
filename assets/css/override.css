@@ -1,6 +1,4 @@
-body {
-    
-}
+body {}
 
 .page-cont {
     max-width: 1000px !important;
@@ -12,7 +10,9 @@ pre {
     font-size: 14px !important;
 }
 
-.intro-header .site-heading, .intro-header .post-heading, .intro-header .page-heading {
+.intro-header .site-heading,
+.intro-header .post-heading,
+.intro-header .page-heading {
     padding-top: 12px;
     padding-bottom: 12px;
 }
@@ -24,7 +24,7 @@ pre {
 }
 
 .intro-header {
-    background-color: white !important;    
+    background-color: white !important;
     max-width: 1000px !important;
     margin-left: auto;
     margin-right: auto;
@@ -49,8 +49,7 @@ pre {
     color: darkblue;
 }
 
-.index-post-image {
-}
+.index-post-image {}
 
 .fake-info-post-cont {
     background-color: darkgoldenrod;
@@ -75,14 +74,14 @@ p img {
 }
 
 .header-tbl .l {
-    display: table-cell;    
+    display: table-cell;
     width: 170px;
 }
 
-.header-tbl .r {    
+.header-tbl .r {
     display: table-cell;
     text-align: left;
-    vertical-align: top;    
+    vertical-align: top;
 }
 
 .header-tbl .r .line1 {
@@ -111,13 +110,13 @@ h1 {
 .layout-table .l {
     display: table-cell;
     width: 780px;
-    padding-left: 15px;    
+    padding-left: 15px;
     padding-right: 15px;
     vertical-align: top;
 }
 
 .layout-table .r {
-    padding-top: 120px; 
+    padding-top: 120px;
     display: table-cell;
     vertical-align: top;
 }
@@ -137,18 +136,36 @@ h1 {
 .logo-title {
     display: block;
     width: 150px;
-    height: 150px;    
+    height: 150px;
     background-color: white;
-    background-image: url('../images/web/logo-full.png');    
-    background-size:     cover;                     
-    background-repeat:   no-repeat;
+    background-image: url('../images/web/logo-full.png');
+    background-size: cover;
+    background-repeat: no-repeat;
     background-position: center center;
 }
 
 .post-cont {
     max-width: 900px;
     margin-left: auto;
-    margin-right: auto;   
+    margin-right: auto;
+}
+
+.like-buttons {
+    border-bottom: 2px solid black;
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+}
+
+.another-post {
+    max-width: 750px;
+}
+
+.another-post a img:hover {
+    cursor: pointer !important;        
+}
+
+.another-post a img {
+        width: 100%;
 }
 
 @media(min-width: 900px) {
@@ -178,4 +195,3 @@ h1 {
         width: 150px !important;
     }
 }
-
