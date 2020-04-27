@@ -1,16 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="https://libenews.cz/" />
 	<id>https://libenews.cz/</id>
 	<title>Líbeznický fake news portal</title>
+	<link rel="self" href="https://libenews.cz/" />
 	<rights>2020</rights>
-	<updated>2020-04-06T20:36:39Z</updated>
+	<updated>2020-04-27T21:27:51Z</updated>
 	<subtitle>Zaručeně neověřené informace</subtitle>
 	<entry>
-		<link href="https://libenews.cz/posts/libeznicke-letiste-na-misto-obce-hovorcovice" />
-		<link rel="enclosure" type="image" href="https://libenews.cz/plane.jpg" />
+		<id>https://libenews.cz/posts/repka-zpusobuje-coronavirus</id>
+		<title>Šokující zjištění Líbeznického vědce, Řepka způsobuje Coronavirus</title>
+		<link href="https://libenews.cz/posts/repka-zpusobuje-coronavirus" />
+		<link rel="enclosure" type="image" href="https://libenews.cz/repka-sklizen.jpg" />
+		<updated>2020-04-27T00:00:00Z</updated>
+		<content>&lt;p&gt;Dnes v časných ranních hodinách, byly na ředitelství krizového štábu, doručeny nezvratné a šokující důkazy, že řepka olejná způsobuje Coronavirus. Osobně byly doručeny týmem předních Líbeznických vědců, v čele s Prof. Chytrým.&lt;/p&gt;
+&lt;p&gt;Prezident Kupka se případu ujal osobně a během krátkého přezkoumání, nemohl konstatovat jinak – důkazy jsou natolik přesvědčivé, že je potřeba jednat ihned.&lt;/p&gt;
+&lt;p&gt;Majitel společnosti AGROFERT Andrej Bureš, pod který spadá i dceřiná firma Česká republika a.s. a která je nejbližším sousedem republiky Líbeznice, na aktuální situaci rychle zareagoval a v krátkém tiskovém prohlášení vyfoukl našemu přednímu vědeckému institutu všechnu slávu.&lt;/p&gt;
+&lt;p&gt;“No my víme že vijů, ale vy nevíte že nevijů, ale samozřejmě víme, že je možnost, že je pravděpodobné, že ano. Vůbec tomu nerozumím, liďé majů Řepku rádi, ale Coronavirus nechtějů, otevřeli jsme salóny pro psi, paní Karásková mi psala, a lidi se stejně nenaučili štěkat, aby se mohli zajůt ostříhat”&lt;/p&gt;
+&lt;p&gt;Tisková konference byla na chvíli přerušena a poté si slovo převzal ministr propagandy Marek Prchal.&lt;/p&gt;
+&lt;p&gt;“Prosím vás, vy panu Burešovi nerozumíte, ale já lidem rozumím. Řepka už dorostla do žlutova a jak každý ví, je zcela zralá, je tedy čas ji sklidit. Abychom zabránili šířeni Coronaviru, vyhlašujeme s okamžitou platností veřejnou sbírku, prosím běžte do polí a sbírejte řepku. Za každý květ řepky, vyplatíme jednu korunovou akci. Výtěžek z akce bude poskytnut na nově vznikající Institut pro potlačení demokracie.”&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Dnes v časných ranních hodinách, byly na ředitelství krizového štábu, doručeny nezvratné a šokující důkazy, že řepka olejná způsobuje Coronavirus. Osobně byly doručeny týmem předních Líbeznických vědců, v čele s Prof. Chytrým.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
 		<id>https://libenews.cz/posts/libeznicke-letiste-na-misto-obce-hovorcovice</id>
 		<title>Líbeznické letiště na místo obce Hovorčovice</title>
+		<link href="https://libenews.cz/posts/libeznicke-letiste-na-misto-obce-hovorcovice" />
+		<link rel="enclosure" type="image" href="https://libenews.cz/plane.jpg" />
 		<updated>2020-04-02T00:00:00Z</updated>
 		<content>&lt;p&gt;Mezi  občany  Líbeznic  už  dlouhodobě  rezonuje jedna  otázka. “Kdy bude  konečně  hotové  nové  mezinárodní  letiště  ve  Vodochodech?”&lt;/p&gt;
 &lt;p&gt;Zatím to vypadá, že  projekt  uvázl  na  mrtvém  bodě, ale podle  nejnovějších  informací to vypadá, že  Líbeznický  parlament  příjde s vlastním  řešením. Nejčerstvější  informace  jsme  získali  od  Prezidenta Kupky  osobně.&lt;/p&gt;
@@ -22,10 +37,10 @@
 		<summary>&lt;p&gt;Mezi  občany  Líbeznic  už  dlouhodobě  rezonuje jedna  otázka. “Kdy bude  konečně  hotové  nové  mezinárodní  letiště  ve  Vodochodech?”&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://libenews.cz/posts/nezavislost-republiky-libeznice" />
-		<link rel="enclosure" type="image" href="https://libenews.cz/flag.png" />
 		<id>https://libenews.cz/posts/nezavislost-republiky-libeznice</id>
 		<title>Líbeznice vyhlašují nezávislost</title>
+		<link href="https://libenews.cz/posts/nezavislost-republiky-libeznice" />
+		<link rel="enclosure" type="image" href="https://libenews.cz/flag.png" />
 		<updated>2020-03-30T00:00:00Z</updated>
 		<content>&lt;p&gt;Situace je zmatená, nikoliv však vypjatá. Pan starosta svolil poskytout našemu občasníku exkluzivní rozhovor a vnést tak na povrch první informace o prítomnosti a blízké budoucnosti nově vzniklé Republiky Líbeznice.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dobrý den pane starosto, na úvod bych se rád zeptal, proč jste se rozhodl poskytnout rozhovor právě nám a ne nejštenějšímu měsíčníku v zemi, Líbeznickému zpravodaji ?&lt;/strong&gt;&lt;/p&gt;
@@ -60,10 +75,10 @@ Na té výstavě se ji zdálo, že archivní vína a slivovice jsou ty nejlepš�
 		<summary>&lt;p&gt;Situace je zmatená, nikoliv však vypjatá. Pan starosta svolil poskytout našemu občasníku exkluzivní rozhovor a vnést tak na povrch první informace o prítomnosti a blízké budoucnosti nově vzniklé Republiky Líbeznice.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://libenews.cz/posts/libeznice-buduji-pivovod" />
-		<link rel="enclosure" type="image" href="https://libenews.cz/pipeline.jpg" />
 		<id>https://libenews.cz/posts/libeznice-buduji-pivovod</id>
 		<title>Líbeznice budují celonárodní pivovod</title>
+		<link href="https://libenews.cz/posts/libeznice-buduji-pivovod" />
+		<link rel="enclosure" type="image" href="https://libenews.cz/pipeline.jpg" />
 		<updated>2020-03-29T00:00:00Z</updated>
 		<content>&lt;p&gt;V květnu by konečně měla započíst dlouho očekávaná stavba městského pivovodu, tedy potrubní komunikace plošně distribující zlatavý mok po celé naší metropoli.&lt;/p&gt;
 &lt;p&gt;Nápad se v hlavách našich čelních představitelů zrodil už před mnoha lety, ale tepreve teď začne konečně samotná realizace. Líbeznice se tak zařadí k dalším metropolím, jako jsou třeba Belgické Bruggy, či podobným projektům z Německa.&lt;/p&gt;
@@ -77,10 +92,10 @@ Na té výstavě se ji zdálo, že archivní vína a slivovice jsou ty nejlepš�
 		<summary>&lt;p&gt;V květnu by konečně měla započíst dlouho očekávaná stavba městského pivovodu, tedy potrubní komunikace plošně distribující zlatavý mok po celé naší metropoli.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://libenews.cz/posts/brno-misto-prahy" />
-		<link rel="enclosure" type="image" href="https://libenews.cz/brno.jpg" />
 		<id>https://libenews.cz/posts/brno-misto-prahy</id>
 		<title>Líbeznice mění Prahu za Brno</title>
+		<link href="https://libenews.cz/posts/brno-misto-prahy" />
+		<link rel="enclosure" type="image" href="https://libenews.cz/brno.jpg" />
 		<updated>2020-03-28T00:00:00Z</updated>
 		<content>&lt;p&gt;Poté co Praha rozvázala kvůli politické rozepři partnerství s Pekingem, začala pomalu pokukovat po patnerské metropoli, která by toto volené místo zacelila.&lt;/p&gt;
 &lt;p&gt;Pražský primátor Hřib se nikdy netajil, sympatií k Líbezniceké metropoli a vždy partnerství uváděl jako jednu ze svých hlavních priorit. Shoda ostatně panuje napříč celou koalicí Pražského Magistrátu.&lt;/p&gt;
